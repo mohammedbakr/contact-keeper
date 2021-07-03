@@ -1,4 +1,4 @@
 {
-	"mongoURI": "mongodb+srv://contactkeeper:contactkeeper@contactkeeper.axj2e.mongodb.net/<dbname>?retryWrites=true&w=majority",
-	"jwtSecret": "secret"
+	"mongoURI": <MONGODB_URI>,
+	"jwtSecret": <JWT_SECRET>
 }
