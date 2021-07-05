@@ -2,7 +2,8 @@
 
 > Full stack MERN contact manager with React hooks, context & JWT authentication. Part of my React course on Udemy.
 
-This is the full app. The API can be found [here](https://github.com/bradtraversy/contact_keeper_api) with documented endpoints
+This is the full app. The API can be found [here](https://github.com/bradtraversy/contact_keeper_api) with documented endpoints<br>
+Then I learnt Node and learnt how to build it on my own, so I did some refactors.
 
 ## Usage
 
