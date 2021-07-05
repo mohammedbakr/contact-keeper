@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://mohammed:y.zGAeC6ASPZFg-@cluster0.b0mzh.mongodb.net/contact?retryWrites=true&w=majority",
-  "JWTSecret": "secret"
+	"mongoURI": <MONGODB_URI>,
+	"jwtSecret": <JWT_SECRET>
 }
