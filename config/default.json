@@ -1,4 +1,4 @@
 {
-	"mongoURI": <MONGODB_URI>,
-	"jwtSecret": <JWT_SECRET>
+	"mongoURI": "<MONGODB_URI>",
+	"jwtSecret": "<JWT_SECRET>"
 }
